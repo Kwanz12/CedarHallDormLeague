@@ -106,6 +106,8 @@ nav .fa{
     .Gallery{
         border: 1px solid skyblue;
         display: inline-block;
+        overflow-x: scroll;
+        display: block;
     }
 
 } 
