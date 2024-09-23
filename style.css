@@ -12,9 +12,9 @@
 }
 
 .header{
-    background-image: url(images/Cedar\Hall\Dorm\League.png);
-    height: 100;
-    width: 100;
+    background-image: url(images/CedarHallDormLeague.png);
+    height: 100vh;
+    width: 100%;
     background-position: center;
     background-size: cover;
     position: relative;
