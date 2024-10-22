@@ -63,12 +63,12 @@ nav img{
 }
 
 .text-box{
-    width: 90%;
+    width: 90;
     color:  rgb(36, 167, 255);
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    top: 50;
+    left: 50;
+    transform: translate(-50,-50);
     text-align: center;
 
 }
